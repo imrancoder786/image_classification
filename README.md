@@ -136,7 +136,7 @@ image_classfication.ipynb
 
 ---
 
-## ⚡ Using Pretrained Model (Skip Training)
+## Using Pretrained Model (Skip Training)
 
 If you want to skip training:
 
@@ -149,9 +149,9 @@ model.load_state_dict(torch.load("first_classification_model.pth"))
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
-✔️ Simple CNN architecture  
-✔️ End-to-end pipeline (training → evaluation → inference)  
-✔️ Custom image prediction support  
-✔️ Beginner-friendly deep learning project  
+$ Simple CNN architecture  
+$ End-to-end pipeline (training → evaluation → inference)  
+$ Custom image prediction support  
+$ Beginner-friendly deep learning project  
